@@ -130,6 +130,9 @@ a {
 .single-service h4{
   transition: all 0.3s ease-in-out;
 }
+.single-service:hover h4{
+  color: #235ee7;
+}
 .unique-feature-area{
   background-color: #04091e;
 }
